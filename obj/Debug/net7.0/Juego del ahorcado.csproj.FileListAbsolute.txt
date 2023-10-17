@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Arreglos\Juego del ahorcado\Juego del ahorcado\obj\Debug\net7.0\Juego del ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Arreglos\Juego del ahorcado\Juego del ahorcado\obj\Debug\net7.0\Juego del ahorcado.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Arreglos\Juego del ahorcado\Juego del ahorcado\obj\Debug\net7.0\Juego del ahorcado.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Arreglos\Juego del ahorcado\Juego del ahorcado\obj\Debug\net7.0\Juego del ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Arreglos\Juego del ahorcado\Juego del ahorcado\bin\Debug\net7.0\Juego del ahorcado.exe
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Arreglos\Juego del ahorcado\Juego del ahorcado\bin\Debug\net7.0\Juego del ahorcado.deps.json
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Arreglos\Juego del ahorcado\Juego del ahorcado\bin\Debug\net7.0\Juego del ahorcado.runtimeconfig.json
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Arreglos\Juego del ahorcado\Juego del ahorcado\bin\Debug\net7.0\Juego del ahorcado.dll
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Arreglos\Juego del ahorcado\Juego del ahorcado\bin\Debug\net7.0\Juego del ahorcado.pdb
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Arreglos\Juego del ahorcado\Juego del ahorcado\obj\Debug\net7.0\Juego del ahorcado.dll
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Arreglos\Juego del ahorcado\Juego del ahorcado\obj\Debug\net7.0\refint\Juego del ahorcado.dll
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Arreglos\Juego del ahorcado\Juego del ahorcado\obj\Debug\net7.0\Juego del ahorcado.pdb
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Arreglos\Juego del ahorcado\Juego del ahorcado\obj\Debug\net7.0\Juego del ahorcado.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Programacion\C#\Fundamentos\Ejercicios\Arreglos\Juego del ahorcado\Juego del ahorcado\obj\Debug\net7.0\ref\Juego del ahorcado.dll
