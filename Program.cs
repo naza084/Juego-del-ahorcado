@@ -56,6 +56,7 @@
             //Creamos arreglo de guiones segun el tamaño de la palabra aleatoria
             string[] guiones = CreateScripts(PalabraMagica);
 
+
             //Declaramos un lista para llevar un registro de las letras ingresadas.
             List<char> letrasIngresadas = new List<char>();
 
